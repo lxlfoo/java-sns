@@ -6,5 +6,7 @@ target/
 src/main/java/
 src/main/resources/
 src/main/webapp/resources/
-src/main/webapp/WEB-INF/
+src/main/webapp/WEB-INF/spring/
+src/main/webapp/WEB-INF/views/board/
+src/main/webapp/WEB-INF/views/sso/
 pom.xml
