@@ -1,0 +1,10 @@
+.settings/
+target/
+.classpath
+.project
+.springBeans
+src/main/java/
+src/main/resources/
+src/main/webapp/resources/
+src/main/webapp/WEB-INF/
+pom.xml
