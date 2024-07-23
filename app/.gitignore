@@ -3,7 +3,10 @@ target/
 .classpath
 .project
 .springBeans
-src/main/java/
+src/main/java/com/lxlfoo/app/controller/
+src/main/java/com/lxlfoo/app/dao/
+src/main/java/com/lxlfoo/app/service/
+src/main/java/com/lxlfoo/app/util/
 src/main/resources/
 src/main/webapp/resources/
 src/main/webapp/WEB-INF/spring/
