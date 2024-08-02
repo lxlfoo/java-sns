@@ -3,7 +3,7 @@ package com.lxlfoo.app.vo;
 /** 사용자 */
 public class UserVO {
 
-	private String id;		//ID (test)
+	private String id;		//ID
 	private String pwd;		//비밀번호
 	private String name;		//이름
 	private String email;	//이메일
