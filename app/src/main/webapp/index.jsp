@@ -23,7 +23,7 @@
 	<form id="frm" action="/login" method="post">
 		<div><img src="/images/title.png" alt="login" /></div>
 		<div>
-			<input type="password" name="pwd" value="1" maxlength="20" autofocus />
+			<input type="password" name="pwd" maxlength="20" autofocus />
 			<span id="spnLogin" class="material-symbols-outlined">login</span>
 		</div>
 		<div class="error"><c:if test="${param.isLogin eq false}">Access Denied.</c:if></div>
