@@ -18,15 +18,16 @@ WRITE 탭에서 글쓰기할 수 있고 에디터 기능, 이미지업로드 기
 <br />
 
 ### <PC 샘플화면>
-![sns01](https://github.com/user-attachments/assets/ee73d74c-1341-41b1-a0a8-f3b65af92ec2)
-<br />
+<p align="left">
+	<img width="1600" alt="sns01" src="https://github.com/user-attachments/assets/50fcad4a-4665-4c80-aafe-ea0cb28cf716">
+</p>
 
 ### <모바일 샘플화면: LIST 탭>
 기본 타임라인<br />
 일반적인 소셜미디어처럼 스크롤을 통해 미리보기가 가능합니다.<br />
 포스트를 클릭하여 세부내용을 보거나 수정 가능합니다.<br />
 미리보기보다 긴 포스트는 [more] 버튼을 클릭하여 나머지 내용을 모두 확인할 수 있습니다.<br />
-![sns02](https://github.com/user-attachments/assets/8e4d7a1c-8a79-4430-928f-0765f2a36264)
+![sns01](https://github.com/user-attachments/assets/ee73d74c-1341-41b1-a0a8-f3b65af92ec2)
 <br />
 ![sns03](https://github.com/user-attachments/assets/91773196-3a2d-42bf-b8b5-fb58a9e59f0c)
 <br />
