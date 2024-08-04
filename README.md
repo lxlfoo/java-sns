@@ -18,7 +18,7 @@ WRITE 탭에서 글쓰기할 수 있고 에디터 기능, 이미지업로드 기
 <br />
 
 ### <PC 샘플화면>
-![sns01](https://github.com/user-attachments/assets/8588fd38-7768-4473-b602-967f69d7df68)
+![sns01](https://github.com/user-attachments/assets/ee73d74c-1341-41b1-a0a8-f3b65af92ec2)
 <br />
 
 ### <모바일 샘플화면: LIST 탭>
@@ -39,5 +39,5 @@ WRITE 탭에서 글쓰기할 수 있고 에디터 기능, 이미지업로드 기
 
 ### <모바일 샘플화면: WRITE 탭>
 에디터는 솔루션이나 플러그인을 사용하지 않고 html5로 직접 개발했습니다.<br />
-![sns05](https://github.com/user-attachments/assets/932a224b-ae20-4fda-b8ad-ba36e87a35d8)
+![sns05](https://github.com/user-attachments/assets/a04942a4-4777-48c9-86d2-688cdfaf174c)
 <br />
