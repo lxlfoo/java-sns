@@ -18,9 +18,8 @@ WRITE 탭에서 글쓰기할 수 있고 에디터 기능, 이미지업로드 기
 <br />
 
 ### <PC 샘플화면>
-<p align="left">
-	<img width="1600" alt="sns01" src="https://github.com/user-attachments/assets/50fcad4a-4665-4c80-aafe-ea0cb28cf716">
-</p>
+![sns01](https://github.com/user-attachments/assets/8588fd38-7768-4473-b602-967f69d7df68)
+<br />
 
 ### <모바일 샘플화면: LIST 탭>
 기본 타임라인<br />
@@ -36,4 +35,9 @@ WRITE 탭에서 글쓰기할 수 있고 에디터 기능, 이미지업로드 기
 스크롤 방식인 LIST 탭과 다르게 페이지 방식으로 이동 가능합니다.<br />
 클릭하여 세부내용을 조회합니다.<br />
 ![sns04](https://github.com/user-attachments/assets/0d952952-940b-439a-a20c-a668f914058a)
+<br />
+
+### <모바일 샘플화면: WRITE 탭>
+에디터는 솔루션이나 플러그인을 사용하지 않고 html5로 직접 개발했습니다.<br />
+![sns05](https://github.com/user-attachments/assets/932a224b-ae20-4fda-b8ad-ba36e87a35d8)
 <br />
